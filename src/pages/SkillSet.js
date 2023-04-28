@@ -1,5 +1,5 @@
 import React from "react"
-import { SiMongodb } from "react-icons/si"
+import { SiMongodb, SiExpress } from "react-icons/si"
 import { TbBrandRedux } from "react-icons/tb"
 
 function SkillSet() {
@@ -36,6 +36,12 @@ function SkillSet() {
             <div className="skillset-icon">
                  <i className="fa-brands fa-node skillset-icon-img"></i>
                 <p>Node</p>
+            </div>
+            <div className="skillset-icon">
+                <i className="fa-brands skillset-icon-img">
+                 <SiExpress className="si-express"/>
+                </i>
+                <p>Express</p>
             </div>
             <div className="skillset-icon">
                 <i className="fa-brands skillset-icon-img">

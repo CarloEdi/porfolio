@@ -112,7 +112,6 @@ body {
   letter-spacing: 1px;
   color: #fff;
   background: #0d1117;
-  
 }
 .subject-button:hover {
   border: 2px solid #939aff;
@@ -535,6 +534,12 @@ input:focus {
 .si-mongodb:hover {
   color: #4DB33D;
 }
+.si-express {
+  font-size: 100px;
+}
+.si-express:hover {
+  color: #000;
+}
 .tb-brand-redux {
   font-size: 100px;
 }
@@ -591,15 +596,6 @@ input:focus {
     color: white;
     cursor: pointer;
   }
-  /*.info-container {
-    display: none;
-  }
-  .buttons-container {
-    display: none;
-  }
-  .social-icons-container {
-    display: none;
-  }*/
   .subject-body {
     width: 90vw;
     margin-left: 0px;
